@@ -5,3 +5,4 @@ In this project, we detect the center of yellow or green pixels. Then,  we carry
 
 
 ![ent1](https://user-images.githubusercontent.com/70167500/109081643-a918f080-7713-11eb-90aa-3407610dd461.PNG)
+<img src="(https://user-images.githubusercontent.com/70167500/109081643-a918f080-7713-11eb-90aa-3407610dd461.PNG)", width="50",heigth="10">
